@@ -3,7 +3,7 @@
 
 [![Build](https://ci.appveyor.com/api/projects/status/9q67m6ok3s6k2gjg?svg=true)](https://ci.appveyor.com/project/npeplov/ahj-events)
 
-Environment: https://npeplov.github.io/ahj-events--gallery/
+Environment: https://npeplov.github.io/ahj-events-gallery/
 
 Вам необходимо реализовать легковесный "менеджер изображений" - на самом деле это будет приложение, которое разрешает пользователю вводить "Название изображения" и "URL" к нему.
 
