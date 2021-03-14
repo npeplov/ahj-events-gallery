@@ -1,0 +1,48 @@
+h1 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.addimage {
+  width: 440px;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.addimage div:nth-child(odd) {
+  width: 140px;
+  padding-top: 20px;
+}
+
+.addimage div:nth-child(even) {
+  width: 300px;
+  padding-top: 15px;
+}
+
+.addimage input {
+  width: 290px;
+  padding-left: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 12px;
+}
+
+.gallery {
+  display: flex;
+}
+
+.gallery div {
+  width: 210px;
+  margin-right: 10px;
+  position: relative;
+}
+
+.gallery .close {
+  width: 64px;
+  height: 64px;
+  top: 0;
+  right: 0;
+  position: absolute;
+  background-image: url('./images/close.png');
+}
